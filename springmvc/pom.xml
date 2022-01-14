@@ -14,6 +14,8 @@
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
+
+<!--Test-->
 	<properties>
 		<springframework.version>5.3.9</springframework.version>
 	</properties>
